@@ -1,0 +1,9 @@
+C:\code\Crypto\src\Crypto\bin\Debug\netstandard2.0\Crypto.deps.json
+C:\code\Crypto\src\Crypto\bin\Debug\netstandard2.0\Crypto.dll
+C:\code\Crypto\src\Crypto\bin\Debug\netstandard2.0\Crypto.pdb
+C:\code\Crypto\src\Crypto\obj\Debug\netstandard2.0\Crypto.csprojAssemblyReference.cache
+C:\code\Crypto\src\Crypto\obj\Debug\netstandard2.0\Crypto.AssemblyInfoInputs.cache
+C:\code\Crypto\src\Crypto\obj\Debug\netstandard2.0\Crypto.AssemblyInfo.cs
+C:\code\Crypto\src\Crypto\obj\Debug\netstandard2.0\Crypto.csproj.CoreCompileInputs.cache
+C:\code\Crypto\src\Crypto\obj\Debug\netstandard2.0\Crypto.dll
+C:\code\Crypto\src\Crypto\obj\Debug\netstandard2.0\Crypto.pdb
