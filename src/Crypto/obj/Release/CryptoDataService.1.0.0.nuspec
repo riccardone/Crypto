@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>CryptoDataService</id>
+    <version>1.0.0</version>
+    <authors>Riccardo Di Nuzzo</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="file">LICENSE</license>
+    <licenseUrl>https://aka.ms/deprecateLicenseUrl</licenseUrl>
+    <description>Encryption Decryption with default implementation using AES256</description>
+    <releaseNotes>implement service for Encryption Decryption</releaseNotes>
+    <dependencies>
+      <group targetFramework=".NETStandard2.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\code\Crypto\src\Crypto\bin\Release\netstandard2.0\Crypto.dll" target="lib\netstandard2.0\Crypto.dll" />
+    <file src="C:\code\Crypto\LICENSE" target="LICENSE" />
+  </files>
+</package>

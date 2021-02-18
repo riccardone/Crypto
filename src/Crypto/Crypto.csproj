@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
+    <Authors>Riccardo Di Nuzzo</Authors>
+    <Company>RDN SoftwareRiccardo Di Nuzzo</Company>
+    <Description>Encryption Decryption with default implementation using AES256</Description>
+    <PackageReleaseNotes>implement service for Encryption Decryption</PackageReleaseNotes>
+    <PackageId>CryptoDataService</PackageId>
+    <Product>CryptoDataService</Product>
+    <PackageLicenseFile>LICENSE</PackageLicenseFile>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="..\..\LICENSE">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
+  </ItemGroup>
+
+</Project>
